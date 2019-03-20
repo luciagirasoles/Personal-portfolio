@@ -1,4 +1,4 @@
-# portfolio-web
+# Portfolio Web
 My first web project base on Sinatra, Ruby
 
 # Instructions
